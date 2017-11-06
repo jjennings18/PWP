@@ -32,5 +32,6 @@
 					for potential clients to view and sample. She says if possible she would also like to have a section that
 					displays a calendar with her availability for the month.
 		</p>
+
 	</body>
 </html>
