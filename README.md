@@ -19,3 +19,12 @@ Overall, nice work here. You've done a great job outlining your purpose/audeince
 ### Edits &amp; Suggestions
 - HTML is indented incorrectly. Be careful about this, and be sure to indent child elements correctly going forward.
 - line 1 in your .gitinore should be `.DS_Store` (the dot is missing)
+
+## Milestone 2alpha feedback
+Your desktop wireframe looks simple and well broken up, which is great. Your mobile wireframe looks great as well, however, when you put two columns next to each other on a mobile device it usually doesn't end well. For the purposes of PWP I advise you to put your skills and talents in a separate row, which will fall above your contact form. Speaking of contact form, it seems as though you're putting text in your contact info section, when in reality it's going to be a form with input fields that people will fill out and send to you via e-mail. I just wanted to point that out, in case there's any confusion.
+
+According to [W3 Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbootcamp-coders.cnm.edu%2F~jjennings18%2Fpwp%2Fpublic_html%2Fdocumentation%2Fmilestone-2.php%2Fmilestone2.php) you're missing alt attributes on both of your images. It's advised to always include alt attributes on all images, as it helps for semantic purposes as well as with search engines.
+
+Your directory structure needs a little love. When it comes time to begin coding your actual PWP you're going to have to separate your files depending on the type, such as CSS, JavaScript, PHP and Images. While your images are fine being in the same directory as your milestone2a.php, we prefer the images to be in a subdirectory titled `images`. Directory structure is a huge deal when working on projects. As projects get larger in scope it becomes increasingly important to separate files logically in order to find them quicker in the future.
+
+Overall it seems as though you've put a lot of thought into the flow of your site, and the end users you'll be trying to attract. Both of which will be tremendously important when it comes time to create and style your PWP. Aside from the suggestions above you've done a great job, and are passing with a [Tier II](https://bootcamp-coders.cnm.edu/projects/personal/rubric/). You're free to begin working your PWP!
