@@ -24,8 +24,11 @@
 			  <p class="lead"></p>
 		  </div>
 	  </div>
+
+	  <div class="container">
 	  <!-- Headshot image -->
-	  <img src="../images/jermainjennings2.jpg"  class="rounded mx-auto d-block" class="img-fluid" alt="Responsive image">
+	  <img src="documentation/images/jermainjennings2.jpg" class="rounded mx-auto d-block img-fluid" alt="Responsive image">
+	  </div>
 	  <!-- Brief Bio-->
 	  <div class="container">
 			 <p class="text-center"> My Name is Jermain Jennings I am a native to Albuquerque, New Mexico. Ive been working with computers for

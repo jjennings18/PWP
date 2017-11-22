@@ -10,8 +10,8 @@
 			I then plan on having a section towards the bottom of the page that list skills and services I can offer, and next to that
 		a "contact info" section. Lastly I plan on pulling it all together with a nice background and/or color and a few different style
 		fonts. Lastly I would like to see If I could possibly throw in an animation or transition if possible. </p>
-		<img src="browserwireframe-pwp.png">
-		<img src="mobilewireframe-pwp.png">
+		<img src="images/browserwireframe-pwp.png">
+		<img src="images/mobilewireframe-pwp.png">
 
 	</body>
 </html>
