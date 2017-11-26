@@ -68,8 +68,12 @@
 		  </div>
 		  <div class="card">
 			  <div class="card-body">
-				  <h4 class="card-title">Card title</h4>
-				  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+				  <h4 class="card-title">Titles</h4>
+				  <ul class="card-text">
+					  <li>Jr.Web developer</li>
+					  <li>Jr.Program writer</li>
+					  <li></li>
+				  </ul>
 			  </div>
 		  </div>
 	  </div>
