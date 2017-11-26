@@ -27,7 +27,7 @@
 
 	  <div class="container">
 	  <!-- Headshot image -->
-	  <img src="documentation/images/jermainjennings2.jpg" class="rounded mx-auto d-block img-fluid" alt="Responsive image">
+	  <img src="documentation/images/jermainjennings2.jpg" class="rounded mx-auto d-block img-fluid mb-3" alt="Responsive image">
 	  </div>
 	  <!-- Brief Bio-->
 	  <div class="container">
@@ -51,8 +51,13 @@
 		  </div>
 		  <div class="card">
 			  <div class="card-body">
-				  <h4 class="card-title">Card title</h4>
-				  <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+				  <h4 class="card-title">Programing/Software background</h4>
+				  <ul class="card-text">
+					  <li>HTML5</li>
+					  <li>GitHub</li>
+					  <li>CSS3</li>
+					  <li>Object Oriented Programming</li>
+				  </ul>
 			  </div>
 		  </div>
 		  <div class="card">
