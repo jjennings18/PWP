@@ -57,6 +57,12 @@
 					  <li>GitHub</li>
 					  <li>CSS3</li>
 					  <li>Object Oriented Programming</li>
+					  <li>PHP and PHP Unit</li>
+					  <li>Javascript</li>
+					  <li>Angular</li>
+					  <li>MySQL</li>
+					  <li>jQuery</li>
+					  <li>Bootstrap</li>
 				  </ul>
 			  </div>
 		  </div>
