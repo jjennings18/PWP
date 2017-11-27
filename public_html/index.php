@@ -78,5 +78,49 @@
 		  </div>
 	  </div>
 
+	  <form id="contact-form" action="php/mailer.php" method="post" novalidate="novalidate">
+		  <div class="form-group">
+			  <label for="name">Name <span class="text-danger">*</span></label>
+			  <div class="input-group">
+				  <div class="input-group-addon">
+					  <i class="fa fa-user" aria-hidden="true"></i>
+				  </div>
+				  <input type="text" class="form-control" id="name" name="name" placeholder="Name">
+			  </div>
+		  </div>
+		  <div class="form-group">
+			  <label for="email">Email <span class="text-danger">*</span></label>
+			  <div class="input-group">
+				  <div class="input-group-addon">
+					  <i class="fa fa-envelope" aria-hidden="true"></i>
+				  </div>
+				  <input type="email" class="form-control" id="email" name="email" placeholder="Email">
+			  </div>
+		  </div>
+		  <div class="form-group">
+			  <label for="subject">Subject</label>
+			  <div class="input-group">
+				  <div class="input-group-addon">
+					  <i class="fa fa-pencil" aria-hidden="true"></i>
+				  </div>
+				  <input type="text" class="form-control" id="subject" name="subject" placeholder="Subject">
+			  </div>
+		  </div>
+		  <div class="form-group">
+			  <label for="message">Message <span class="text-danger">*</span></label>
+			  <div class="input-group">
+				  <div class="input-group-addon">
+					  <i class="fa fa-comment" aria-hidden="true"></i>
+				  </div>
+				  <textarea class="form-control" rows="5" id="message" name="message" placeholder="Message (2000 characters max)"></textarea>
+			  </div>
+		  </div>
+
+		  <!-- reCAPTCHA -->
+		  <div class="g-recaptcha" data-sitekey="6LcaRyQUAAAAAH5YSvBO7MHX58qLhIwoPyXfvKSM"><div style="width: 304px; height: 78px;"><div><iframe src="https://www.google.com/recaptcha/api2/anchor?k=6LcaRyQUAAAAAH5YSvBO7MHX58qLhIwoPyXfvKSM&amp;co=aHR0cDovL2FtYmllbnRjcmVhdGl2aXQuY29tOjgw&amp;hl=en&amp;v=r20171115120512&amp;size=normal&amp;cb=qzqejeaf1a95" width="304" height="78" role="presentation" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox"></iframe></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid #c1c1c1; margin: 10px 25px; padding: 0px; resize: none;  display: none; "></textarea></div></div>
+
+		  <button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
+		  <button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
+	  </form>
   </body>
 </html>
