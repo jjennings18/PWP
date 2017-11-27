@@ -15,7 +15,7 @@
     <!-- Optional JavaScript -->
 
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
 
@@ -100,7 +100,7 @@
 			  <!-- Contact Form Section -->
 			  <div class="col-md-6 col-md-offset-3">
 				  <!-- BEGIN CONTACT FORM -->
-				  <form id="contact-form" method="POST" action="php/mailer.php" novalidate="novalidate">
+				  <form id="contact-form" method="post" action="php/mailer.php"  novalidate>
 					  <div class="form-group">
 						  <label for="name">Name</label>
 						  <div class="input-group">
@@ -139,10 +139,10 @@
 						  </div>
 					  </div>
 					  <!-- Google reCAPTCHA -->
-					  <div class="g-recaptcha" data-sitekey="6LduTSQUAAAAAK1T5Wr008EwURLbhCXxAwO3j_F9"><div style="width: 304px; height: 78px;"><div><iframe src="https://www.google.com/recaptcha/api2/anchor?k=6LduTSQUAAAAAK1T5Wr008EwURLbhCXxAwO3j_F9&amp;co=aHR0cDovL3d3dy5zaGlobGlubHUuY29tOjgw&amp;hl=en&amp;v=r20171115120512&amp;size=normal&amp;cb=kya7ms2gwfyg" width="304" height="78" role="presentation" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox"></iframe></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid #c1c1c1; margin: 10px 25px; padding: 0px; resize: none;  display: none; "></textarea></div></div>
+					  <div class="g-recaptcha" data-sitekey="6LdhnzoUAAAAAE0drDieHh4BWfb7wfH4kUkza5pv"></div>
 
-					  <button class="btn btn-default" type="reset">Reset</button>
-					  <button class="btn btn-info" type="submit">Submit</button>
+					  <button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Submit</button>
+					  <button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
 				  </form>
 				  <!-- END CONTACT FORM-->
 
