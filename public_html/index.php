@@ -31,11 +31,15 @@
 
 	  <!--Google reCAPTCHA-->
 	  <script src='https://www.google.com/recaptcha/api.js'></script>
+
 	  <!-- start of page -->
 	  <div class="jumbotron jumbotron-fluid">
 		  <div class="container">
 			  <h1 class="text-primary" class="display-3">Welcome!</h1>
 			  <p class="lead"></p>
+		  </div>
+		  <div>
+			  <i class="fa fa-linkedin-square fa-3x "></iclass>
 		  </div>
 	  </div>
 
