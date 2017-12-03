@@ -84,7 +84,6 @@
 				  <ul class="card-text">
 					  <li>Jr.Web developer</li>
 					  <li>Jr.Program writer</li>
-					  <li></li>
 				  </ul>
 			  </div>
 		  </div>
