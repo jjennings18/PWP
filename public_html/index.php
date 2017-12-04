@@ -38,7 +38,7 @@
 			  <h1 class="text-primary" class="display-3">Welcome!</h1>
 			  <p class="lead"></p>
 			  <div>
-				  <a href="https://www.linkedin.com/in/jermain-jennings-14807356/"><i class="fa fa-linkedin-square fa-3x "></i></a>
+
 			  </div>
 		  </div>
 
@@ -98,11 +98,18 @@
 	  <div class="col-md-12">
 		  <h2 class="heading">Contact</h2>
 		  <div class="row">
+		  </div>
 
 			  <!-- Social Media Links -->
+			  <div class="col-xs-5 social-icons">
+
+			  <div class="d-flex justify-content-center"><a href="https:https://www.linkedin.com/in/jermain-jennings-14807356/" target="_blank"><i class="fa fa-linkedin-square fa-3x golden" aria-hidden="true"></i></a>
+				  <a href="https://github.com/jjennings18" target="_blank"><i class="fa fa-github-square fa-3x golden" aria-hidden="true"></i></a></div>
+				  </div>
+
+			  </div>
 
 
-			  </div><!--/.social links-->
 			  <!-- Contact Form Section -->
 			  <div class="col-md-6 col-md-offset-3">
 				  <!-- BEGIN CONTACT FORM -->
@@ -151,6 +158,7 @@
 					  <button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
 				  </form>
 				  <!-- END CONTACT FORM-->
+
 
 				  <!-- EMPTY FORM OUTPUT AREA -->
 				  <div class="row">
