@@ -38,7 +38,7 @@
 			  <h1 class="text-primary" class="display-3">Welcome!</h1>
 			  <p class="lead"></p>
 			  <div>
-				  <a href="https://www.linkedin.com/in/jermain-jennings-14807356/"><i class="fa fa-linkedin-square fa-3x"></i></a>
+				  <a href="https://www.linkedin.com/in/jermain-jennings-14807356/"><i class="fa fa-linkedin-square fa-3x "></i></a>
 			  </div>
 		  </div>
 
@@ -46,7 +46,7 @@
 
 	  <div class="container">
 	  <!-- Headshot image -->
-	  <img src="images/jermainjennings2.jpg" class="rounded mx-auto d-block img-fluid mb-3" alt="Responsive image">
+	  <img src="documentation/images/jermainjennings2.jpg" class="rounded mx-auto d-block img-fluid mb-3" alt="Responsive image">
 	  </div>
 	  <!-- Brief Bio-->
 	  <div class="container">
