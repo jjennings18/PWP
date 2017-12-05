@@ -51,7 +51,7 @@
 	  <img src="documentation/images/jermainjennings2.jpg" class="rounded mx-auto d-block img-fluid mb-3" alt="Responsive image">
 	  </div>
 	  <!-- Brief Bio -->
-	  <div class="container">
+	  <div class="container" id="Bio">
 			<h2> <strong> <p class="text-center"> My Name is Jermain Jennings I am a native to Albuquerque, New Mexico. Ive been working with computers for
 				 over 10 years. I am currently looking to help small bussiness owners start or strengthen their digital footprint
 			 in the modern world of technology. My skillset allows me to build basic yet elegant websites that are fully
