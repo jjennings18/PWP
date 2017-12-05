@@ -37,7 +37,7 @@
 	  <!-- start of page -->
 	  <div class="jumbotron jumbotron-fluid">
 		  <div class="container">
-			  <h1 class="text-primary" class="display-3">Welcome!</h1>
+			  <h1 class="text-secondary"class="display-3">Welcome!</h1>
 			  <p class="lead"></p>
 			  <div>
 
