@@ -34,8 +34,8 @@
 	  <!--Google reCAPTCHA-->
 	  <script src='https://www.google.com/recaptcha/api.js'></script>
 
-	  <!-- start of page -->
-	  <div class="jumbotron jumbotron-fluid">
+	  <!-- start of page
+	  <div class="jumbotron jumbotron-fluid"> -->
 		  <div class="container">
 			  <h1 class="text-secondary"class="display-3">Welcome!</h1>
 			  <p class="lead"></p>
@@ -50,17 +50,18 @@
 	  <!-- Headshot image -->
 	  <img src="documentation/images/jermainjennings2.jpg" class="rounded mx-auto d-block img-fluid mb-3" alt="Responsive image">
 	  </div>
-	  <!-- Brief Bio-->
+	  <!-- Brief Bio -->
 	  <div class="container">
-			<h2 <p class="text-center"> My Name is Jermain Jennings I am a native to Albuquerque, New Mexico. Ive been working with computers for
+			<h2> <strong> <p class="text-center"> My Name is Jermain Jennings I am a native to Albuquerque, New Mexico. Ive been working with computers for
 				 over 10 years. I am currently looking to help small bussiness owners start or strengthen their digital footprint
 			 in the modern world of technology. My skillset allows me to build basic yet elegant websites that are fully
-			  functional and mobile friendly so your business can be viewd by everyone!</p> </h2>
+			  functional and mobile friendly so your business can be viewd by everyone!</p></strong> </h2>
 	  </div>
+
 
 	  <div class="card-deck">
 		  <div class="card">
-			  <div class="card-body">
+			  <div class="card-body bg-primary" >
 				  <h3 class="card-title">Skills</h3>
 				  <ul class="card-text">
 					  <li>write HTML and CSS</li>
@@ -71,7 +72,7 @@
 			  </div>
 		  </div>
 		  <div class="card">
-			  <div class="card-body">
+			  <div class="card-body bg-warning">
 				  <h3 class="card-title">Programing/Software background</h3>
 				  <ul class="card-text">
 					  <li>HTML5</li>
@@ -88,17 +89,17 @@
 			  </div>
 		  </div>
 		  <div class="card">
-			  <div class="card-body">
+			  <div class="card-body bg-info">
 				  <h3 class="card-title">Titles</h3>
-				  <ul class="card-text">
-					  <li>Jr.Web developer</li>
-					  <li>Jr.Program writer</li>
+				   <ul class="card-text">
+						 <li>Jr.Web developer</li>
+						 <li>Jr.Program writer</li>
 				  </ul>
 			  </div>
 		  </div>
 	  </div>
 	  <div class="col-md-12">
-		  <h4 class="heading">Contact</h4>
+		  <h3 class="heading">Contact</h3>
 		  <div class="row">
 		  </div>
 

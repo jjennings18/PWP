@@ -1,15 +1,17 @@
-h1 {
-	color: red;
+body {
+	background-image: url("../documentation/images/abstract.jpg")
+;
 }
-
-
 
 /* Bio Text*/
 
 h2 {
-	color: steelblue;
-}
-
-h2 {
+	color: white;
 	font-family: fantasy;
 }
+
+/* Card title and contact form tittle color*/
+h3 {
+	color: white;
+}
+
