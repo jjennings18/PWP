@@ -15,6 +15,8 @@
     <!-- Optional JavaScript -->
 	  <script src="https://use.fontawesome.com/697ad0944a.js"></script>
 
+	  <link type="text/css" href="css/main.css" rel="stylesheet" />
+
 
 	  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.2.1.min.js" crossorigin="anonymous"></script>
@@ -50,16 +52,16 @@
 	  </div>
 	  <!-- Brief Bio-->
 	  <div class="container">
-			 <p class="text-center"> My Name is Jermain Jennings I am a native to Albuquerque, New Mexico. Ive been working with computers for
+			<h2 <p class="text-center"> My Name is Jermain Jennings I am a native to Albuquerque, New Mexico. Ive been working with computers for
 				 over 10 years. I am currently looking to help small bussiness owners start or strengthen their digital footprint
 			 in the modern world of technology. My skillset allows me to build basic yet elegant websites that are fully
-			 functional and mobile friendly so your business can be viewd by everyone!</p>
+			  functional and mobile friendly so your business can be viewd by everyone!</p> </h2>
 	  </div>
 
 	  <div class="card-deck">
 		  <div class="card">
 			  <div class="card-body">
-				  <h4 class="card-title">Skills</h4>
+				  <h3 class="card-title">Skills</h3>
 				  <ul class="card-text">
 					  <li>write HTML and CSS</li>
 					  <li>wireframe/layout a website or web application </li>
@@ -70,7 +72,7 @@
 		  </div>
 		  <div class="card">
 			  <div class="card-body">
-				  <h4 class="card-title">Programing/Software background</h4>
+				  <h3 class="card-title">Programing/Software background</h3>
 				  <ul class="card-text">
 					  <li>HTML5</li>
 					  <li>GitHub</li>
@@ -87,7 +89,7 @@
 		  </div>
 		  <div class="card">
 			  <div class="card-body">
-				  <h4 class="card-title">Titles</h4>
+				  <h3 class="card-title">Titles</h3>
 				  <ul class="card-text">
 					  <li>Jr.Web developer</li>
 					  <li>Jr.Program writer</li>
@@ -96,14 +98,14 @@
 		  </div>
 	  </div>
 	  <div class="col-md-12">
-		  <h2 class="heading">Contact</h2>
+		  <h4 class="heading">Contact</h4>
 		  <div class="row">
 		  </div>
 
 			  <!-- Social Media Links -->
 			  <div class="col-xs-5 social-icons">
 
-			  <div class="d-flex justify-content-center"><a href="https:https://www.linkedin.com/in/jermain-jennings-14807356/" target="_blank"><i class="fa fa-linkedin-square fa-3x golden" aria-hidden="true"></i></a>
+			  <div class="d-flex justify-content-center"><a href="https://linkedin.com/in/jermain-jennings-14807356" target="_blank"><i class="fa fa-linkedin-square fa-3x golden" aria-hidden="true"></i></a>
 				  <a href="https://github.com/jjennings18" target="_blank"><i class="fa fa-github-square fa-3x golden" aria-hidden="true"></i></a></div>
 				  </div>
 
