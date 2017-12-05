@@ -34,8 +34,7 @@
 	  <!--Google reCAPTCHA-->
 	  <script src='https://www.google.com/recaptcha/api.js'></script>
 
-	  <!-- start of page
-	  <div class="jumbotron jumbotron-fluid"> -->
+	  <!-- start of page-->
 		  <div class="container">
 			  <h1 class="text-secondary"class="display-3">Welcome!</h1>
 			  <p class="lead"></p>
