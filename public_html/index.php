@@ -14,7 +14,7 @@
 
     <!-- Optional JavaScript -->
 	  <script src="https://use.fontawesome.com/697ad0944a.js"></script>
-
+	  <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet">
 	  <link type="text/css" href="css/main.css" rel="stylesheet" />
 
 
@@ -52,9 +52,9 @@
 	  <!-- Brief Bio -->
 	  <div class="container" id="Bio">
 			<h2> <strong> <p class="text-center"> My Name is Jermain Jennings I am a native to Albuquerque, New Mexico. Ive been working with computers for
-				 over 10 years. I am currently looking to help small bussiness owners start or strengthen their digital footprint
-			 in the modern world of technology. My skillset allows me to build basic yet elegant websites that are fully
-			  functional and mobile friendly so your business can be viewd by everyone!</p></strong> </h2>
+				 over 10 years. I am currently looking to help small business owners start or strengthen their digital footprint
+			 in the modern world of technology. My skill-set allows me to build basic yet elegant websites that are fully
+			  functional and mobile friendly so your business can be viewed by everyone!</p></strong> </h2>
 	  </div>
 
 
