@@ -16,8 +16,13 @@ h2 {
 	background-color: rgba(255,255,255, 0.7);
 }
 
-/* Card title and contact form tittle color*/
+/* Card title color*/
 h3 {
 	color: white;
 }
 
+
+/* Contact title color*/
+h4 {
+	color: gold;
+}

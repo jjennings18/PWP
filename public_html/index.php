@@ -98,7 +98,7 @@
 		  </div>
 	  </div>
 	  <div class="col-md-12">
-		  <h3 class="heading">Contact</h3>
+		  <h4 class="heading">Contact</h4>
 		  <div class="row">
 		  </div>
 
