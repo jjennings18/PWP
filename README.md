@@ -28,3 +28,20 @@ According to [W3 Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbootc
 Your directory structure needs a little love. When it comes time to begin coding your actual PWP you're going to have to separate your files depending on the type, such as CSS, JavaScript, PHP and Images. While your images are fine being in the same directory as your milestone2a.php, we prefer the images to be in a subdirectory titled `images`. Directory structure is a huge deal when working on projects. As projects get larger in scope it becomes increasingly important to separate files logically in order to find them quicker in the future.
 
 Overall it seems as though you've put a lot of thought into the flow of your site, and the end users you'll be trying to attract. Both of which will be tremendously important when it comes time to create and style your PWP. Aside from the suggestions above you've done a great job, and are passing with a [Tier II](https://bootcamp-coders.cnm.edu/projects/personal/rubric/). You're free to begin working your PWP!
+
+## Milestone 3
+
+### Feedback
+
+I really like your site design, and layout. It flows nicely, and the colors are definitely eye-catching.
+
+I passed your site through [W3 Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjrjennings.net), and it has pointed out a number of errors. The errors are an issue, but they're not site breaking. Check out the link to the W3 Validator and clean up your code a bit, and you'll be fine.
+
+Overall you've done a great job with your PWP, and I really like your originality with the design. You pass with a Tier III.
+
+Your overall grade across all of your PWP Milestones is 26/40 points (65%).
+
+* Milestone 1 - 20%: Tier II 20(0.2) = 4
+* Milestone 2a - 20%: Tier II 20(0.2) = 4
+* Milestone 2b - 10%: Tier III 30(0.1) = 3
+* Milestone 3 - 50%: Tier III 30(0.5) = 15
